@@ -1,0 +1,90 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Whether app",
+            "body": "https://elastic-fermi-982dcb.netlify.app"
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Wishing app",
+            "body": "https://hopeful-hermann-b04410.netlify.app"
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Resident List",
+            "body": "https://priceless-colden-ea2839.netlify.app"
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "public/images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "public/images/Portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "public/images/Portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "public/images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "public/images/Portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "public/images/Portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "public/images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "public/images/Portfolio/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] ,"Profile" :[
+        {
+            "id":1,
+            "title" : "CSS3" ,
+            "percentge" : "90%"
+        },
+        {
+            "id":2,
+            "title" : "React" ,
+            "percentge" : "80%"
+        }
+
+    ]
+
+}
