@@ -40,7 +40,7 @@ const worksList = works.map( (workitem) => {
         <div className="container">
             <WorkTitle><Span>My</Span> Work</WorkTitle>
             
-            {worksList}
+            {worksList};
            
         </div>
     </WorkSection>
