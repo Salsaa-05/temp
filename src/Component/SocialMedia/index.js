@@ -4,14 +4,15 @@ import './style.css'
 
 const SocialMedia = () =>{
 
+    
     return (
       <div className="social-media">
             
       <div className="social face">
-          <i className="icon fa fa-facebook fa-lg"></i>
+          <i className="icon fa fa-linkedin fa-lg" ></i>
           <p>
-              <span className="info1">Follow Me on</span>
-              <span className="info2">Social Facebook</span>
+              <span className="info1" >link with Me</span>
+              <span className="info2">Linkedin</span>
               
           </p>
       </div>
@@ -20,7 +21,7 @@ const SocialMedia = () =>{
           <i className="icon fa fa-twitter fa-lg"></i>
           <p>
               <span className="info1">Tweet Me on</span>
-              <span className="info2">Social twitter</span>
+              <span className="info2"> twitter</span>
           </p>
       </div>
       
