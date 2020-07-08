@@ -38,7 +38,7 @@ const worksList = works.map( (workitem) => {
     return (
         <WorkSection>
         <div className="container">
-            <WorkTitle><Span>My</Span> Work</WorkTitle>
+            <WorkTitle><Span>some work</Span> IN</WorkTitle>
             
             {worksList}
            

@@ -1,4 +1,4 @@
-.creative {
+.Sportiv {
     height: 500px;
     background: url('about-bg.jpg');
     background-size: 917px;
@@ -9,48 +9,48 @@
     
 }
 
-.creative .creative-info {
+.Sportiv .Sportiv-info {
     padding-top: 100px;
     width: 50%;
     float: right;
 }
 
-.creative .creative-info .info-title {
+.Sportiv .Sportiv-info .info-title {
     font-weight: bold;
     font-size: 50px
 }
 
-.creative .creative-info .info-title span {
+.Sportiv .Sportiv-info .info-title span {
     font-weight: normal
 }
 
-.creative .creative-info .info-dir {
+.Sportiv .Sportiv-info .info-dir {
     font-size: 40px;
     color: #eb5424;
     margin-bottom: 20px
 }
 
-.creative .creative-info .info-desc {
+.Sportiv .Sportiv-info .info-desc {
     color: #000;
     margin-bottom: 15px;
     line-height: 1.8
 }
 
-.creative .creative-info .info-desc a {
+.Sportiv .Sportiv-info .info-desc a {
     text-decoration: none
 }
 
 @media (max-width:991px) {
-    .creative {
+    .Sportiv {
         height: auto
     }
-    .creative .creative-info {
+    .Sportiv .Sportiv-info {
         width: 100%;
         padding-top: 10px;
         float: none
     }
     
-    .creative .creative-info .info-dir {
+    .Sportiv .Sportiv-info .info-dir {
         font-size: 30px
     }
 }

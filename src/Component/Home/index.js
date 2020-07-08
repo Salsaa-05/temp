@@ -8,12 +8,12 @@ const Home = () => {
   <HomeSecticon>
     <div className="container">
       <HomeInformation>
-    <HomeTitle>Saad Hamoda</HomeTitle>
-    <HomeInfo>Coordinatore d'affari</HomeInfo>
+    <HomeTitle>Bodyiolgo</HomeTitle>
+    <HomeInfo>Life is unlimte wiy u way udoing</HomeInfo>
     <HomeDesc>
-      I am a  <Span>Website Designer</Span> Front-End Developer creating modern and responsive designs to Web and Mobile.
+     Workout page  <Span>helps trainers </Span> to achive best preformence with high accsleart benefit in priff accses to sours power .
       </HomeDesc>
-    <HomeBtn>Have a look</HomeBtn>
+    <HomeBtn>give it chance</HomeBtn>
   
   </HomeInformation>
  </div>

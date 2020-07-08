@@ -1,4 +1,4 @@
-import React  from 'react';
+import React, { useEffect }  from 'react';
 import './style.css'
 
 //use state allows to use state in functional component
@@ -11,13 +11,15 @@ const Portofolio = () => {
 
 return (
 <div className="portfolio">
-            <h2 className="portfolio-title"><span>My</span> Portfolio</h2>
+            <h2 className="portfolio-title"><span>qualified</span> supplement</h2>
             <ul className="portfolio-list">
                 <li className="portfolio-item active">All</li>
-                <li className="portfolio-item">HTML</li>
-                <li className="portfolio-item">Photoshop</li>
-                <li className="portfolio-item">Wordpress</li>
-                <li className="portfolio-item">Mobile</li>
+                <li className="portfolio-item">Fat burner</li>
+                <li className="portfolio-item">best preformence</li>
+                <li className="portfolio-item">injery rapide</li>
+                <li className="portfolio-item">protines powder $`{useEffect = Boolean }` >
+                 
+                </li>
             </ul>
             
             <div className="box">
@@ -102,6 +104,6 @@ return (
     ) 
 }
 
+export default useEffect
 
-
-export default Portofolio;
+&&  Portofolio;

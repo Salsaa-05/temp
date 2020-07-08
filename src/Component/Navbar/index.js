@@ -11,7 +11,7 @@ const Navbar = () =>{
             <div className="container">
                 
                 <Logo>
-                    <LogoText>My Profile</LogoText>
+                    <LogoText>BODYIoLogico</LogoText>
                 </Logo>
                 
                               

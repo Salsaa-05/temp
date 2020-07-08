@@ -6,11 +6,11 @@ const About = () =>{
 
     return (
     
-     <div className="creative">
+     <div className="Sportiv">
             <div className="container">
-                <div className="creative-info">
+                <div className="Sportiv-info">
                     <h2 className="info-title"><span>This is</span> Me</h2>
-                    <h4 className="info-dir">Creative person</h4>
+                    <h4 className="info-dir">Sportiv person</h4>
                     <p className="info-desc">
                         Per me parlando tre lingue non è il mio obiettivo finale,voglio ancora imparare di più per esempio cinese una delle mie ambizione che ho iniziato a ottenere alcune lezioni,perchè davvero efficace nello spazio di lavoro. 
                     </p>
