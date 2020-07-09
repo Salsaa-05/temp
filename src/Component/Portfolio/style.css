@@ -38,7 +38,8 @@
 }
 
 .box div img {
-    width: 100%
+    width: 500px
+    
 }
 
 .box div .overlay {
@@ -47,7 +48,7 @@
     left: 0;
     bottom: 0;
     right: 0;
-    background: rgba(12, 245, 253, 0.5);
+    background: rgba(0, 0, 0, 0.5);
     font-size: 15px;
     opacity: 0
 }
