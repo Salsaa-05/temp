@@ -9,16 +9,16 @@ const About = () =>{
      <div className="Sportiv">
             <div className="container">
                 <div className="Sportiv-info">
-                    <h2 className="info-title"><span>This is</span> Me</h2>
-                    <h4 className="info-dir">Sportiv person</h4>
+                    <h2 className="info-title"><span>gym</span>tempo°9</h2>
+                    <h4 className="info-dir"> Personl trainar</h4>
                     <p className="info-desc">
-                        Per me parlando tre lingue non è il mio obiettivo finale,voglio ancora imparare di più per esempio cinese una delle mie ambizione che ho iniziato a ottenere alcune lezioni,perchè davvero efficace nello spazio di lavoro. 
+                        
                     </p>
                     <p className="info-desc">
-                       Per gli hobby amo cucinare per i miei amici e mi piace provare nuove esperinze legate all'autostima ,e cammpeggio.
+                      , 180 Kg 70°k  i flow 4A   
                     </p>
                 </div>
-            </div>
+            </div>  
         </div>
   
   );

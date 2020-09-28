@@ -9,9 +9,9 @@ const Home = () => {
     <div className="container">
       <HomeInformation>
     <HomeTitle>Bodyiolgo</HomeTitle>
-    <HomeInfo>Life is unlimte wiy u way udoing</HomeInfo>
+    <HomeInfo>||||||||||||</HomeInfo>
     <HomeDesc>
-     Workout page  <Span>helps trainers </Span> to achive best preformence with high accsleart benefit in priff accses to sours power .
+     Workout page  <Span>helps trainers </Span> to achive best preformence with high accsleart benefit in priff accses to sourc power .
       </HomeDesc>
     <HomeBtn>give it chance</HomeBtn>
   
