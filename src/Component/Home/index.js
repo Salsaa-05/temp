@@ -11,7 +11,7 @@ const Home = () => {
     <HomeTitle>Bodyiolgo</HomeTitle>
     <HomeInfo>||||||||||||</HomeInfo>
     <HomeDesc>
-     Workout page  <Span>helps trainers </Span> to achive best preformence with high accsleart benefit in priff accses to sourc power .
+     Workout page  <Span>helps trainnar </Span> to achive best preformence with high accsleart benefit in priff accses to sourc power .
       </HomeDesc>
     <HomeBtn>give it chance</HomeBtn>
   

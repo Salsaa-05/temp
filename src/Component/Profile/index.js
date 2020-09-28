@@ -49,7 +49,7 @@ const Profile = () =>{
                     </div>
                     
                     <div className="bar">
-                        <span className="title">pulling weights</span>
+                        <span className="title">Pulling weights</span>
                         <span className="perc">90%</span>
                         <div className="parent">
                             <span className="sp2"></span>
