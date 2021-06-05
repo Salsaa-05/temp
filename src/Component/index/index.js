@@ -3,9 +3,9 @@ import Home from './../Home'
 import About from './../About'
 
 import Profile from './../Profile'
-import Portfolio from './../Portfolio'
+
 import SocialMedia from './../SocialMedia'
-import Work from './../Work'
+/* import Work from './../Work' */
 import Footer from './../Footer'
 
 
@@ -16,8 +16,8 @@ class Index extends Component {
     <div>
    
    <Home/>
-   <Work/>
-   <Portfolio/>
+  {/*  <Work/> */}
+   
    <Profile/>
    <About/>
    <SocialMedia/>

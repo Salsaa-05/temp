@@ -37,10 +37,13 @@ export const HomeInfo = styled.h4`
 
 export const HomeDesc = styled.p `
 
-    font-size: 20px;
+    font-size: 60px;
     line-height: 1.5;
-    color: #888;
-    margin-bottom: 20px`
+    color: 000;
+    margin-bottom: 20px;
+    font-family: font-family: "Times New Roman", Times, serif;
+    `
+    
 
 export const Span = styled.span`
     color: #000

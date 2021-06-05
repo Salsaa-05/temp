@@ -17,8 +17,10 @@ export const Logo = styled.div `
 
 
 export const LogoText = styled.h2 `
-    font-size: 30px;
-    font-weight: bold
+    font-size: 70px;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
 `
 
 

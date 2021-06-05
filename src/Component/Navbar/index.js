@@ -11,16 +11,16 @@ const Navbar = () =>{
             <div className="container">
                 
                 <Logo>
-                    <LogoText>BODYIoLogico</LogoText>
+                    <LogoText>Centro Medioevo</LogoText>
                 </Logo>
                 
                               
                 <UlLlist>
                     <ListItem ><NavLink><Link to="/">Home</Link></NavLink></ListItem>
-                    <ListItem ><Anchor href="#">Work</Anchor></ListItem>
-                    <ListItem ><Anchor href="#">Portfolio</Anchor></ListItem>
+                    <ListItem ><Anchor href="#"></Anchor></ListItem>
+                    <ListItem ><Anchor href="#"></Anchor></ListItem>
                 
-                    <ListItem ><Anchor href="#">About</Anchor></ListItem>
+                    <ListItem ><Anchor href="#"></Anchor></ListItem>
                     <ListItem ><NavLink><Link to="/contact">Contact</Link></NavLink></ListItem>
                 </UlLlist>
                 

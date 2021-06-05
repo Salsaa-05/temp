@@ -8,12 +8,12 @@ const Home = () => {
   <HomeSecticon>
     <div className="container">
       <HomeInformation>
-    <HomeTitle>Bodyiolgo</HomeTitle>
-    <HomeInfo>||||||||||||</HomeInfo>
+    <HomeTitle></HomeTitle>
+    <HomeInfo></HomeInfo>
     <HomeDesc>
-     Workout page  <Span>helps trainnar </Span> to achive best preformence with high accsleart benefit in priff accses to sourc power .
+     Sedute rilassanti miste alla medicina tradizionale araba <Span>per confortare il corpo e ravviare ossessioni profonde </Span> .
       </HomeDesc>
-    <HomeBtn>give it chance</HomeBtn>
+    <HomeBtn>Prova</HomeBtn>
   
   </HomeInformation>
  </div>

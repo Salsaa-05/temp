@@ -9,47 +9,47 @@ const Profile = () =>{
      <div className="profile_skills">
             <div className="container">
                 <div className="profile">
-                    <h2 className="profile-title"><span> </span>Profile</h2>
+                    <h2 className="profile-title"><span> </span>Profilo</h2>
                     <ul className="profile-list">
                         <li className="profile-item">
                             <span>Name</span>
-                          luis garzia
+                          Hamoda
                         </li>
-                        <li className="profile-item">
+                       {/*  <li className="profile-item">
                             <span>Birthday</span>
-                            1/5/1987
-                        </li>
-                        <li className="profile-item">
+                            1/5
+                        </li> */}
+                       {/*  <li className="profile-item">
                             <span>Address</span>
                             KualaLampur
-                        </li>
+                        </li> */}
                         <li className="profile-item">
                             <span>Phone</span>
-                           +34267593672
+                           3509074949
                         </li>
-                        <li className="profile-item">
+                       {/*  <li className="profile-item">
                             <span>Email</span>
                             yourtrainar@sport.org
-                        </li>
+                        </li> */}
                        
                     </ul>
                 </div>
                 
                 <div className="skills">
-                    <h2 className="skills-title">Some <span>skills</span></h2>
+                    <h2 className="skills-title"> <span></span></h2>
                     <p className="skills-desc">
-                    Buone prestazioni con la body hacks  .
+                    
                     </p>
                     <div className="bar">
                         <span className="title">Cardio</span>
-                        <span className="perc">100%</span>
+                        <span className="perc">87%</span>
                         <div className="parent">
                             <span className="sp1"></span>
                         </div>
                     </div>
                     
                     <div className="bar">
-                        <span className="title">Pulling weights</span>
+                        <span className="title">Meditazione</span>
                         <span className="perc">90%</span>
                         <div className="parent">
                             <span className="sp2"></span>
